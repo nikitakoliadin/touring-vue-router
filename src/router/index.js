@@ -5,9 +5,8 @@ import About from '@/views/About.vue'
 
 const routes = [
   {
-    path: '/:tT?',
+    path: '/',
     name: 'EventList',
-    props: route => ({ testedTimes: route.params.tT }),
     component: EventList
   },
   {
