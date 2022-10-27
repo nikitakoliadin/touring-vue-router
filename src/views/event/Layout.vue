@@ -33,7 +33,9 @@ export default {
             params: { resource: 'event' }
           })
         } else {
-          this.$router.push({ name: 'NetworkError' })
+          this.$router.push({
+            name: 'NetworkError'
+          })
         }
       })
   }
