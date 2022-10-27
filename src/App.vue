@@ -26,6 +26,7 @@ export default {
     background: transparent;
   }
 }
+
 #flashMessage {
   animation-name: yellowfade;
   animation-duration: 3s;
