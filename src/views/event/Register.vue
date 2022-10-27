@@ -10,6 +10,7 @@ export default {
     register() {
       // Call to API
       // If registered then redirect to event details
+
       this.$router.push({
         name: 'EventDetails'
       })
