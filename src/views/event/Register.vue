@@ -1,5 +1,5 @@
 <template>
-  <p>Register for he event here</p>
+  <p>Register for the event here</p>
 </template>
 
 <script>

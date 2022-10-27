@@ -1,5 +1,5 @@
 <template>
-  <p>Edit he event here</p>
+  <p>Edit the event here</p>
 </template>
 
 <script>
